@@ -3,4 +3,4 @@ logo: assets/profile-placeholder.png
 theme: jekyll-theme-minimal
 description: "Aspiring Business & Data Analyst | SQL, Excel, Python, Tableau"
 show_downloads: true
-include: ["assets/css/style.css"]
+
